@@ -1,0 +1,16 @@
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.exe
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.deps.json
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.runtimeconfig.json
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.runtimeconfig.dev.json
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.dll
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\ref\função-while.dll
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\bin\Debug\net5.0\função-while.pdb
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.csproj.AssemblyReference.cache
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.AssemblyInfoInputs.cache
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.AssemblyInfo.cs
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.csproj.CoreCompileInputs.cache
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.dll
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\ref\função-while.dll
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.pdb
+C:\Users\39517928840\Desktop\Logica de Programação\função-while\obj\Debug\net5.0\função-while.genruntimeconfig.cache
